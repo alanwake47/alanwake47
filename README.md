@@ -26,7 +26,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
 
 
-#### ⦿ 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **what I need**
+#### ⦿ 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **what I need** & will strive to be better
 
 ⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more and more Open source projects**
 
@@ -114,10 +114,10 @@
 <p align="center">
   <br>
   </a>
-  <a href="https://www.instagram.com/mrinank02/" target="_blank">
+  <a href="https://www.instagram.com/aryan.19.k/" target="_blank">
     <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"/></code>
   </a>
-  <a href="https://twitter.com/_mrinank_" target="_blank">
+  <a href="https://twitter.com/KAkinichi" target="_blank">
     <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png"/></code>    
   </a>
 </p>
