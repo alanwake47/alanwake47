@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1&column=7" class="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KudoAkinichi&theme=onedark&row=1&column=7)](https://github.com/KudoAkinichi/github-profile-trophy)" class="center">
 
 #
 
