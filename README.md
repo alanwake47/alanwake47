@@ -52,9 +52,9 @@
 <br/>
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_960_720.png"></code>
-<code><img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/c-programming.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
 
 # 
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a>
-    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinank-Bhowmick&theme=dark&hide_border=true"/>
+    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KudoAkinichi&theme=dark&hide_border=true"/>
   </a>
 </p>
 
