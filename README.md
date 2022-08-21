@@ -86,11 +86,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Mrinank-Bhowmick">
-    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Mrinank-Bhowmick&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/KudoAkinichi">
+    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=KudoAkinichi&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/Mrinank-Bhowmick">
-    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinank-Bhowmick&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/KudoAkinichi">
+    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KudoAkinichi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
@@ -100,7 +100,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mrinank-Bhowmick&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KudoAkinichi&theme=react-dark&hide_border=true&area=true)
 
 <br>
 <br>
