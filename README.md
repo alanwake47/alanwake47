@@ -120,6 +120,9 @@
   <a href="https://twitter.com/KAkinichi" target="_blank">
     <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png"/></code>    
   </a>
+  <a href="https://discord.com/channels/@KudoAkinichi#6193" target="_blank">
+   <code><img height='60' width='60' src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232_960_720.png"/></code>
+  </a> 
 </p>
 
 
