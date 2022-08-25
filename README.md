@@ -58,7 +58,7 @@
 
 # 
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
@@ -115,10 +115,10 @@
   <br>
   </a>
   <a href="https://www.instagram.com/aryan.19.k/" target="_blank">
-    <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"/></code>
+    <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png"/></code>
   </a>
   <a href="https://twitter.com/KAkinichi" target="_blank">
-    <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png"/></code>    
+    <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></code>    
   </a>
   <a href="https://discord.com/channels/@KudoAkinichi#6193" target="_blank">
    <code><img height='60' width='60' src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232_960_720.png"/></code>
