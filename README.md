@@ -1,6 +1,6 @@
 
 <p align="middle">
-  <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
+  <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-pursuing-**MS in Financial Mathematics at the University of Chicago**">
   <img src="PNG/About.png" width="100" />
   </a>
   <a href="#𝙂𝙞𝙩𝙃𝙪𝙗-𝙎𝙩𝙖𝙩𝙨">
@@ -115,13 +115,13 @@
 <p align="center">
   <br>
   </a>
-  <a href="https://www.instagram.com/aryan.19.k/" target="_blank">
+  <a href="https://www.instagram.com/amankrishna4/" target="_blank">
     <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png"/></code>
   </a>
-  <a href="https://twitter.com/KAkinichi" target="_blank">
+  <a href="https://twitter.com/amankrishna4" target="_blank">
     <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></code>    
   </a>
-  <a href="https://discord.com/channels/@alanwake47#6193" target="_blank">
+  <a href="https://discord.com/channels/@alanwake#2793" target="_blank">
    <code><img height='60' width='60' src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232_960_720.png"/></code>
   </a> 
 </p>
