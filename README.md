@@ -26,13 +26,13 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
 
 
-#### ⦿ 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 pursuing my Master in Financial Mathematics at the University of Chicago
+#### ⦿ 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 pursuing my Master's in Financial Mathematics at the University of Chicago
 
-⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more and more Open source projects**
+⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more Quant Finance related projects**
 
 ⦿ 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
-⦿ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Copy-and-Paste was programmed by programmers for programmers actually.”**
+⦿ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“The root is the the top of the Tree!”**
 
 <br/>
 <br/>
@@ -106,10 +106,10 @@
 <br>
 <br>
 
-## Follow me on GitHub to display your profile 
+<!--## Follow me on GitHub to display your profile 
 
 ![Metrics](https://metrics.lecoq.io/Mrinank-Bhowmick?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
-
+-->
 # Connect With Me
 
 <p align="center">
