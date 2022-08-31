@@ -54,7 +54,7 @@
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://github.com/alanwake47/alanwake47/blob/bd263a0859de14bae94deee9c2ea38c0abc10dae/PNG/cplusplus.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://github.com/alanwake47/alanwake47/blob/9622374ad16127de3c10e091990c8dd4160546f8/PNG/Matlab_Logo.png"></code>
 
 # 
 
