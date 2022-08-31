@@ -23,8 +23,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2">
+<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
 
 <!--## "https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">-->
 
