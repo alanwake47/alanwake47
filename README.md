@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/alanwake47/alanwake47/blob/58e8390eec08e00ff8efe15dec5595a949b5bbbd/github-contribution-grid-snake.gif">
 
 <!--## "https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">-->
 
