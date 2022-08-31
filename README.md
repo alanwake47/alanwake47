@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KudoAkinichi&theme=onedark&row=1&column=7)](https://github.com/KudoAkinichi/github-profile-trophy)" class="center">
+<img src="https://github-profile-trophy.vercel.app/?username=alanwake47&theme=onedark&row=1&column=7)](https://github.com/alanwake47/github-profile-trophy)" class="center">
 
 #
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <a>
-    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KudoAkinichi&theme=dark&hide_border=true"/>
+    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alanwake47&theme=dark&hide_border=true"/>
   </a>
 </p>
 
@@ -87,11 +87,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/KudoAkinichi">
-    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=KudoAkinichi&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/alanwake47">
+    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=alanwake47&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/KudoAkinichi">
-    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KudoAkinichi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/alanwake47">
+    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanwake47&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
@@ -101,7 +101,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KudoAkinichi&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alanwake47&theme=react-dark&hide_border=true&area=true)
 
 <br>
 <br>
@@ -121,7 +121,7 @@
   <a href="https://twitter.com/KAkinichi" target="_blank">
     <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></code>    
   </a>
-  <a href="https://discord.com/channels/@KudoAkinichi#6193" target="_blank">
+  <a href="https://discord.com/channels/@alanwake47#6193" target="_blank">
    <code><img height='60' width='60' src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232_960_720.png"/></code>
   </a> 
 </p>
