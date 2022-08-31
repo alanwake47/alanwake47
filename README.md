@@ -99,7 +99,7 @@
 </details>
 
 
-![snake gif](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alanwake47/alanwake47/blob/58e8390eec08e00ff8efe15dec5595a949b5bbbd/github-contribution-grid-snake.gif)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
